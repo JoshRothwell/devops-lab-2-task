@@ -1,0 +1,12 @@
+sh-bang
+git add fol_1
+git add fol_2
+cd /fol_1/
+git add 1_1.txt
+git add 1_2.txt
+git add 1_3.txt
+cd ..
+cd /fol_2/
+git add 2_1.txt
+git add 2_2.txt
+git add 2_3.txt
